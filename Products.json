@@ -1,3 +1,4 @@
+
 {
     "products": [
         {
@@ -738,27 +739,33 @@
     "categories": [
         {
             "id": 1,
-            "title": "Phones"
+            "title": "Phones",
+            "icon":"IoGameControllerOutline"
         },
         {
             "id": 2,
-            "title": "Laptops "
+            "title": "Laptops ",
+            "icon":"IoGameControllerOutline"
         },
         {
             "id": 3,
-            "title": "Smart watches"
+            "title": "Smart watches",
+            "icon":"IoGameControllerOutline"
         },
         {
             "id": 4,
             "title": "Cameras"
+            ,"icon":"IoGameControllerOutline"
         },
         {
             "id": 5,
-            "title": "Headphones"
+            "title": "Headphones",
+            "icon":"IoGameControllerOutline"
         },
         {
             "id": 6,
-            "title": "Gaming"
+            "title": "Gaming",
+            "icon":"IoGameControllerOutline"
         }
     ]
 }
