@@ -740,32 +740,32 @@
         {
             "id": 1,
             "title": "Phones",
-            "icon":"IoGameControllerOutline"
+            "icon":"./images/Icon_Phones.svg"
         },
         {
             "id": 2,
             "title": "Laptops ",
-            "icon":"IoGameControllerOutline"
+            "icon":"./images/Icon_Computers.svg"
         },
         {
             "id": 3,
             "title": "Smart watches",
-            "icon":"IoGameControllerOutline"
+            "icon":"./images/Icon_SmartWatches.svg"
         },
         {
             "id": 4,
-            "title": "Cameras"
-            ,"icon":"IoGameControllerOutline"
+            "title": "Cameras",
+            "icon":"./images/Icon_Cameras.svg"
         },
         {
             "id": 5,
             "title": "Headphones",
-            "icon":"IoGameControllerOutline"
+            "icon":"./images/Icon_Headphones.svg"
         },
         {
             "id": 6,
             "title": "Gaming",
-            "icon":"IoGameControllerOutline"
+            "icon":"./images/Icon_Gaming.svg"
         }
     ]
 }
