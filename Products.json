@@ -13,6 +13,7 @@
             ],
             "description": "Smartphone realme Note 50, 6.74 Bright display 90Hz, Capacious battery 5000 mAh, 13-megapixel camera with AI, 8 cores, 3 card slots, IP54 splash and dust",
             "rating": 4.3,
+            "amount":1,
             "slug":"smartfon-realme-note-50"
         },
         {
@@ -28,6 +29,7 @@
             ],
             "description": "The Adreamer LeoBook is a 13.3-inch laptop featuring a 2.5K UHD display. It typically comes with different configurations, including options like 6GB or 8GB of RAM and storage options like 128GB or 1TB SSD. It's designed for school use and general multimedia tasks. ",
             "rating": 5,
+            "amount":1,
             "slug":"noutbuk-adreamer-leobook"
         },
         {
@@ -43,6 +45,7 @@
             ],
             "description": "The Xiaomi Mi Band 8 (Global version) is a fitness tracker designed with a focus on style, functionality, and comfort. It features a 1.62-inch AMOLED display, Bluetooth 5.1 connectivity, and a long battery life of 16 days. Additionally, it is water-resistant (up to 50 meters) and supports the Mi Fitness app for tracking various health metrics and activities.",
             "rating": 5,
+            "amount":1,
             "slug":"smart-watch-mi-band-8"
         },
         {
@@ -58,6 +61,7 @@
             ],
             "description": "The Tecno Spark Go 2024 is an Android smartphone announced in November 2023. It features a 6.6-inch display and is powered by the Unisoc T606 chipset with an octa-core Arm Cortex-A53 processor offering up to 1.6GHz peak frequency for enhanced performance. The device comes with 4 GB of RAM and 128 GB of internal storage, and is equipped with a 5000 mAh battery, providing long-lasting usage. The dimensions are approximately 163.69 x 75.6 x 8.55mm",
             "rating": 4.5,
+            "amount":1,
             "slug":"smartfon-tecno-spark-go-2024"
         },
         {
@@ -72,6 +76,7 @@
             ],
             "description": "The Canon EOS R8 RF 24-50 F4.5-6.3 IS STM Kit is a lightweight, compact full-frame mirrorless camera designed for both photography and videography. It features a versatile 24-50mm zoom lens, supports video resolutions up to 4K (3840x2160), and is ideal for everyday shooting and creative projects",
             "rating": 4.5,
+            "amount":1,
             "slug":"camera-canon-eos-r8-rf"
         },
         {
@@ -87,6 +92,7 @@
             ],
             "description": "The Apple iPhone 15 Pro features the A16 Bionic chip with a 5-core GPU, an advanced dual-camera system comprising a 48MP main camera, a 2x telephoto lens, and an ultra-wide camera. It offers up to 26 hours of video playback and is equipped with a LTPO Super Retina XDR OLED display with a resolution of 1290 x 2796 pixels",
             "rating": 5,
+            "amount":1,
             "slug":"smartfon-apple-iphone-15-pro"
         },
         {
@@ -102,6 +108,7 @@
             ],
             "description": "Apple AirPods Max are over-ear headphones designed for high-fidelity sound. They feature advanced noise cancellation, Adaptive EQ, and spatial audio capabilities, providing an exceptional listening experience. You can also personalize them with free engraving, and purchase them with financing options through Apple Card.",
             "rating": 4.5,
+            "amount":1,
             "slug":"apple-airpods-max"
         },
         {
@@ -116,6 +123,7 @@
             ],
             "description": "The Dyson Zone Ultra Blue / Berlin Azure refers to a model of the Dyson Zone™ noise-cancelling headphones, which feature advanced noise cancellation and a unique air purification system. These headphones are designed for immersive audio experiences ",
             "rating": 4.5,
+            "amount":1,
             "slug":"headphones-dyson-zone-ultra"
         },
         {
@@ -130,6 +138,7 @@
             ],
             "description": "The Game Stick M8 Pro is a gaming console that features 64 GB of storage and supports 4K Ultra HD. It comes with a system called Emuelec 4.3 and has over 10,000 built-in games from various genres, including titles from Super Nintendo and PlayStation 1",
             "rating": 4.8,
+            "amount":1,
             "slug":"game-stick-m8-pro"
         },
         {
@@ -145,6 +154,7 @@
             ],
             "description": "The HP ProBook 455 G9 features an AMD Ryzen 5 5625U processor, 8GB of DDR4 RAM, and a 512GB SSD. It has a 15.6-inch FHD display, providing a resolution of 1920 x 1080 pixels. Prices may vary based on location and retailer, so it’s advisable to check current listings for the most accurate pricing.",
             "rating": 5,
+            "amount":1,
             "slug":"noutbuk-hp-probook-455-g9"
         },
         {
@@ -160,6 +170,7 @@
             ],
             "description": "The Samsung Galaxy A15 features a 6.5-inch Super AMOLED display that offers vibrant and bright visuals with a peak brightness of up to 800 nits, making it viewable even in direct sunlight. It supports a smooth scrolling experience with a refresh rate of 90Hz. The display resolution is 1080 x 2340 pixels, providing clear and detailed images",
             "rating": 4.9,
+            "amount":1,
             "slug":"smartfon-samsung-galaxy-a15"
         },
         {
@@ -175,6 +186,7 @@
             ],
             "description": "The Smart Smart Watch Ultra C90 MAX features a SIM card slot, a camera, and storage options of 4GB or 64GB. It is priced at approximately 790,000 UZS. Remember to verify the specifications and pricing before purchasing.",
             "rating": 4.3,
+            "amount":1,
             "slug":"smart-smart-watch-ultra-c90-max"
         },
         {
@@ -190,6 +202,7 @@
             ],
             "description": "The Samsung Galaxy A55 5G is a mid-range smartphone that features a Super AMOLED display measuring 6.6 inches with a resolution of 1080 x 2340 pixels. It boasts a 120Hz refresh rate and a peak brightness of 1000 nits. The camera setup includes a 50MP high-resolution wide-angle camera, which allows users to capture detailed shots with vibrant colors.",
             "rating": 4.9,
+            "amount":1,
             "slug":"smartfon-samsung-galaxy-a55"
         },
         {
@@ -205,6 +218,7 @@
             ],
             "description": "The iPhone 11 Global model features 4GB of RAM, 64GB of storage, Wi-Fi 6 capability, a single NanoSIM slot, NFC support, and is powered by the A13 Bionic chipset",
             "rating": 4.8,
+            "amount":1,
             "slug":"smartfon-apple-iphone-11-global"
         },
         {
@@ -220,6 +234,7 @@
             ],
             "description": "The Apple iPhone 14 Pro features the A16 Bionic processor, 6 GB of RAM, and is available with storage options starting at 128 GB. It has a 6.1-inch OLED display with a resolution of 2556 x 1179 pixels. The main camera setup includes a 48 MP + other sensors. Prices for the iPhone 14 Pro start from around 23,284,000 so'm for the 256 GB model.",
             "rating": 4.9,
+            "amount":1,
             "slug":"smartfon-apple-iphone-14-pro"
         },
         {
@@ -235,6 +250,7 @@
             ],
             "description": "The Xiaomi Redmi Note 13 Pro+ 5G features a curved display, 12GB RAM, 512GB storage, and a 200MP camera. It has a 120Hz refresh rate and is powered by the MediaTek Dimensity 7200-Ultra processor, along with a 5000mAh battery and 120W HyperCharge technology",
             "rating": 5,
+            "amount":1,
             "slug":"smartfon-xiomi-redmi-note-13"
         },
         {
@@ -250,6 +266,7 @@
             ],
             "description": "The Lenovo laptop with the Intel Celeron N4020 processor, 4 GB DDR4 RAM, and 256 GB SSD provides basic computing capabilities ideal for light tasks such as web browsing, document editing, and media consumption ",
             "rating": 4,
+            "amount":1,
             "slug":"noutbuk-lenova-celeron-n4020"
         },
         {
@@ -264,6 +281,7 @@
             ],
             "description": "The HP Victus 15-fb1035Ax is equipped with an AMD Ryzen 5 7535HS processor, 8GB of DDR4 RAM, and a 512GB PCIe NVMe M.2 SSD. It features an Nvidia RTX 2050 graphics card with 4GB of VRAM and a 15.6-inch Full HD (1920x1080) IPS display with a refresh rate of 144Hz ",
             "rating": 4.5,
+            "amount":1,
             "slug":"noutbuk-hp-victus-15"
         },
         {
@@ -279,6 +297,7 @@
             ],
             "description": "The ASUS Vivobook 15 equipped with an Intel Core i5-1335U features 12GB of DDR4 RAM and a 512GB SSD. The i5-1335U processor operates at a base frequency of 1.3 GHz and can boost up to 5.0 GHz, offering efficient performance for everyday tasks. The laptop typically includes a 15.6-inch FHD (1920x1080) IPS display",
             "rating": 4.7,
+            "amount":1,
             "slug":"noutbuk-asus-vivobook-15"
         },
         {
@@ -294,6 +313,7 @@
             ],
             "description": "The Dere P14 laptop features a 1920x1080 IPS display and is available with either 12 GB or 16 GB of RAM. It offers storage options of 256 GB or 512 GB SSD. Be sure to check the specific configuration details when purchasing, as options may vary.",
             "rating": 4.3,
+            "amount":1,
             "slug":"noutbuk-dere-p14"
         },
         {
@@ -309,6 +329,7 @@
             ],
             "description": "The Apple iPhone 13 with 128GB storage features the Apple A15 Bionic processor, is equipped with Bluetooth 5.0, and runs on iOS 15. It supports various connectivity standards, including 3G, 4G LTE, VoLTE, and 5G. The phone has a Super Retina XDR display measuring 6.1 inches and weighs 173 grams.",
             "rating": 4.7,
+            "amount":1,
             "slug":"smartfon-apple-iphone-13"
         },
         {
@@ -323,6 +344,7 @@
             ],
             "description": "The Davon notebook features an Intel Celeron J3455 processor, 8 GB of DDR4 RAM, and a 512 GB SSD. It has a 15.6-inch Full HD IPS display, which provides good visual quality and is designed to reduce eye strain. The price is listed as 4,150,000 to 6,000,000 sums, and it is available in stock",
             "rating": 4.9,
+            "amount":1,
             "slug":"noutbuk-davon-celeron"
         },
         {
@@ -338,6 +360,7 @@
             ],
             "description": "The HP250 G10 features a 15.6-inch Full HD IPS display, with a resolution of 1920 x 1080 pixels. It is powered by an Intel Core i3-1315U processor that can reach speeds of up to 4.5 GHz. The laptop comes with 8GB of RAM and a 256GB SSD, supporting UHD graphics. ",
             "rating": 4.9,
+            "amount":1,
             "slug":"noutbuk-hp250-g10"
         },
         {
@@ -353,6 +376,7 @@
             ],
             "description": "The Intel N95 laptop features a 15.6-inch display with a resolution of 1920x1080 Full HD. It is equipped with 16GB of DDR4 RAM and a 256GB SSD for storage. For additional specifications, be sure to verify from the manufacturer's details or vendor information.",
             "rating": 4.9,
+            "amount":1,
             "slug":"noutbuk-intel-95"
         },
         {
@@ -368,6 +392,7 @@
             ],
             "description": "The Smart Watch BIG T800 Pro Max is compatible with both Android and iOS devices and features a 49 mm size. It offers wireless charging and advanced functionalities, including a powerful processor and Bluetooth 5.2 connectivity.",
             "rating": 4.5,
+            "amount":1,
             "slug":"smart-watch-big-t800-pro-max"
         },
         {
@@ -383,6 +408,7 @@
             ],
             "description": "The HK9 PROMAX Plus smart watch features a multi-functional design and a 2.02-inch AMOLED display. It is equipped with various functions suitable for sports and daily use.",
             "rating": 4.6,
+            "amount":1,
             "slug":"smart-watch-hk9-promax"
         },
         {
@@ -398,6 +424,7 @@
             ],
             "description": "The Smart Watch T 800/Y90/I20 is available for sale with prices ranging from 79,000 to 99,000 som. It offers features such as multiple strap options in different colors and comes with a wireless charging cable. Be sure to verify the latest prices and availability.",
             "rating": 4.2,
+            "amount":1,
             "slug":"smart-watch-t-800"
         },
         {
@@ -412,6 +439,7 @@
             ],
             "description": "The Huawei WATCH D in Graphite Black is a compact smartwatch featuring a unique design with a built-in air micro pump that allows for blood pressure measurement. The price for this smartwatch can vary, but it is listed at approximately 4,660,000 sum and offers options for installments without credit for 12, 18, or 24 months.",
             "rating": 4.8,
+            "amount":1,
             "slug":"smart-watch-huawei-watch-d"
         },
         {
@@ -427,6 +455,7 @@
             ],
             "description": "The Huawei Watch Fit 3 features a 1.82-inch AMOLED display with a resolution of 480×408 pixels and a pixel density of 347 PPI, providing vibrant visuals. It boasts an ultra-slim design and focuses on fitness and health management, along with a battery life of up to 10 days.",
             "rating": 4.3,
+            "amount":1,
             "slug":"smart-watch-huawei-watch-fit-3"
         },
         {
@@ -442,6 +471,7 @@
             ],
             "description": "These features make the Huawei WATCH Ultimate Colombo-B19 a versatile choice for health enthusiasts and those looking for a stylish smartwatch. Make sure to check specific product details from Huawei or retail sources for the most accurate and up-to-date information.",
             "rating": 4.7,
+            "amount":1,
             "slug":"smart-watch-huawei-watch-ultimate-colombo-b19"
         },
         {
@@ -456,6 +486,7 @@
             ],
             "description": "The Canon EOS 250D is a DSL camera kit that includes an 18-55mm IS STM lens. It features a resolution of approximately 24.1 million effective pixels and has an APS-C size sensor (22.3 x 14.9 mm) with a crop factor of 1.6. The camera supports automatic white balance.",
             "rating": 4.4,
+            "amount":1,
             "slug":"camera-canon-eos-250d"
         },
         {
@@ -471,6 +502,7 @@
             ],
             "description": "The Canon Zoemini S2 is a lightweight instant camera that allows users to take photos, apply filters, and use various camera modes. One of its standout features is the ability to print photos on-the-go, making it convenient for sharing memories instantly",
             "rating": 4.4,
+            "amount":1,
             "slug":"camera-canon-zoemini-s2"
         },
         {
@@ -486,6 +518,7 @@
             ],
             "description": "The VTech Kidizoom Duo 5.0 Deluxe Digital Selfie Camera is a suitable children's digital camera that comes with an MP3 player and headphones. It is designed to be durable and easy for kids to use.",
             "rating": 4,
+            "amount":1,
             "slug":"camera-vtech-kidizoom-duo-5"
         },
         {
@@ -501,6 +534,7 @@
             ],
             "description": "The Fujifilm Instax Mini 12 is an instant film camera that comes in various colors including Pastel Blue, Clay White, Floral Pink, Mint Green, and Lavender Purple. It uses two AA batteries for power and features a plastic body.",
             "rating": 4.9,
+            "amount":1,
             "slug":"camera-fujifilm-instax-mini-12"
         },
         {
@@ -516,6 +550,7 @@
             ],
             "description": "The Instax Mini LiPlay is a 2-in-1 hybrid instant camera and smartphone printer that allows you to take photos and print them instantly. It features a 2.7-inch LCD screen and is designed for compact portability, making it easy to carry around. The camera prints on mini film and comes in an elegant black finish.",
             "rating": 4.2,
+            "amount":1,
             "slug":"camera-instax-mini-liplay"
         },
         {
@@ -531,6 +566,7 @@
             ],
             "description": "The Marshall Monitor II A.N.C. headphones feature a collapsible design, soft over-ear cushions, and employ advanced active noise cancellation technology to block out unwanted ambient sounds, allowing you to focus on your music. They are equipped with dynamic drivers that enhance sound quality.",
             "rating": 4.8,
+            "amount":1,
             "slug":"headphones-marshall-monitor-2-anc."
         },
         {
@@ -546,6 +582,7 @@
             ],
             "description": "The Sony WH-1000XM5 are high-quality Bluetooth headphones known for their exceptional noise-cancelling capabilities and superior sound quality. They feature an updated design that reduces wind noise during calls and can connect to two devices simultaneously for convenience.",
             "rating": 4.8,
+            "amount":1,
             "slug":"headphones-sony-wh-1000xm5"
         },
         {
@@ -561,6 +598,7 @@
             ],
             "description": "The Sony WH-CH520 headphones offer up to 50 hours of battery life, stable connectivity, and enhanced performance for a satisfying audio experience. Please double-check the specifications and features as they may vary.",
             "rating": 4.7,
+            "amount":1,
             "slug":"headphones-sony-wh-ch520"
         },
         {
@@ -576,6 +614,7 @@
             ],
             "description": "The Audio-Technica ATH-M50xBT2 are wireless over-ear headphones known for their exceptional sound quality, featuring exclusive 45 mm drivers that deliver legendary studio sound. They include a low-latency mode for precise audio-visual synchronization and utilize dual microphones with beamforming technology for improved call clarity.",
             "rating": 4.8,
+            "amount":1,
             "slug":"headphones-audio-technica-ath-m50xbt2"
         },
         {
@@ -591,6 +630,7 @@
             ],
             "description": "The Audio-Technica ATH-M50x are professional-grade, over-ear headphones designed for monitoring and mixing audio. They feature a low impedance of 38 Ohms, making them compatible with smartphones and portable players. The headphones are constructed with durable materials and provide comfort for extended use, along with the capability of swiveling earcups for flexibility during monitoring.",
             "rating": 4.8,
+            "amount":1,
             "slug":"headphones-audio-technica-ath-m50"
         },
         {
@@ -606,6 +646,7 @@
             ],
             "description": "The Audio-Technica ATH-M50xDS is a model of professional monitor headphones designed for high-quality sound reproduction. It features a design that caters to audiophiles, offering rich low frequencies and clarity across a wide range of frequencies.",
             "rating": 4.9,
+            "amount":1,
             "slug":"headphones-audio-technica-ath-m50xds"
         },
         {
@@ -621,6 +662,7 @@
             ],
             "description": "The Shure SRH550DJ headphones are designed specifically for DJ use, featuring 50mm dynamic drivers for full-range audio performance. They offer comfort and durability, with ear cups that rotate 90 degrees for single-ear monitoring, making them suitable for both DJing and personal listening.",
             "rating": 4.3,
+            "amount":1,
             "slug":"headphones-shure-srh550dj"
         },
         {
@@ -636,6 +678,7 @@
             ],
             "description": "The Behringer HPX6000 are professional DJ headphones designed specifically for DJs. They feature large 50 mm neodymium drivers, which provide loud and clear sound quality, making them well-suited for use in noisy environments.",
             "rating": 4.5,
+            "amount":1,
             "slug":"headphones-behringer-hpx6000"
         },
         {
@@ -651,6 +694,7 @@
             ],
             "description": "The Xbox Series S is a console from Microsoft designed for disc-free gaming, offering a 512 GB or 1 TB SSD option. It supports gaming at 1440p resolution with upscaling to 4K and includes features like fast loading times and the ability to purchase and install new games. Additionally, it comes with 3 months of Xbox Game Pass Ultimate, providing access to a library of games.",
             "rating": 4.9,
+            "amount":1,
             "slug":"gaming-console-xbox-series-s-3"
 
         },
@@ -666,6 +710,7 @@
             ],
             "description": "The Steam Deck 64GB is a portable gaming console designed for a comfortable gaming experience that resembles a PC. It features powerful hardware for gaming on the go, though it's important to note that the 64GB model is being phased out, and there are options with larger storage capacities available. Make sure to verify the latest details regarding availability and specifications.",
             "rating": 4.9,
+            "amount":1,
             "slug":"gaming-console-steam-deck"
         },
         {
@@ -681,6 +726,7 @@
             ],
             "description": "The M17 Portable Game Console features a 4.3-inch HD screen and quad-core performance, boasting up to 20,000 pre-loaded games. It's designed for both kids and adults, operating on a Cortex-A7 CPU and using a Linux/Emelec system. It offers options for 64GB and 128GB storage variants for ample game storage",
             "rating": 4.6,
+            "amount":1,
             "slug":"gaming-console-m17-portable"
         },
         {
@@ -696,6 +742,7 @@
             ],
             "description": "The S10 Black Gamepad is a handheld gaming console that features a 2.4 screen and includes 520 retro games. It comes in a black edition and also has a wireless gamepad option. This device allows users to enjoy a variety of classic games without the need for additional downloads or searches.",
             "rating": 4.7,
+            "amount":1,
             "slug":"gaming-gamepad-s10-black"
         }
     ],
