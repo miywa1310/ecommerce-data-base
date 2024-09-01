@@ -7,30 +7,30 @@
       "price": 120,
       "images": [
         "https://olcha.uz/image/original/products/2022-12-12/realme-c30-181628-0.jpeg",
-        "https://images.uzum.uz/cp5gebs0u44tu6dqdg70/original.jpg",
-        "https://images.uzum.uz/cp5gebs0u44tu6dqdg6g/original.jpg",
-        "https://images.uzum.uz/cp5gebnj2e4ghqns3u40/original.jpg"
+        "https://olcha.uz/image/original/products/2022-12-12/realme-c30-181628-1.jpeg",
+        "https://olcha.uz/image/original/products/2022-12-12/realme-c30-181628-2.jpeg",
+        "https://olcha.uz/image/original/products/2022-12-12/realme-c30-181628-3.jpeg"
       ],
-      "description": "Smartphone realme Note 50, 6.74 Bright display 90Hz, Capacious battery 5000 mAh, 13-megapixel camera with AI, 8 cores, 3 card slots, IP54 splash and dust",
+      "description": "Smartphone Realme C30s, 6.74 Bright display 90Hz, Capacious battery 5000 mAh, 13-megapixel camera with AI, 8 cores, 3 card slots, IP54 splash and dust",
       "rating": 4.3,
       "amount": 1,
       "slug": "smartfon-realme-note-50"
     },
     {
       "id": "202",
-      "name": "Noutbuk Adreamer LeoBook 13.3 2.5K UHD",
+      "name": "Noutbokk Lenovo V15 G2 Celeron",
       "categoryId": 2,
       "price": 233.89,
       "images": [
-        "https://images.uzum.uz/cle9es56sfhvbd1idab0/original.jpg",
-        "https://images.uzum.uz/cle9f5fn7c6qm23jqio0/original.jpg",
-        "https://images.uzum.uz/cle9f5d6sfhvbd1idagg/original.jpg",
-        "https://images.uzum.uz/cle9f5fn7c6qm23jqing/original.jpg"
+        "https://olcha.uz/image/original/products/BLKUunLAt9lhEZgUpA4ipwB0oJygqtjauvHBjWrcgBvjiCSwK1rQyzSFoni7.jpg",
+        "https://olcha.uz/image/original/products/Gmlz7cLC3eWfJE988u3qI4KEmIN6FgOH9QyOymQCjNEWtaG0TPKCmBhMJoZc.jpg",
+        "https://olcha.uz/image/original/products/uTXZfbRcmEktuH7CcZobgiO3GQTkhPZdbcmmW55hrlTFx9yUsJOVXjgoOzKD.jpg",
+        "https://olcha.uz/image/original/products/XJWGzps9oJ68TAvoGf6M7mv79OGE0edvMD11GC2014wf53qVS6HU2s0TuZQ8.jpg"
       ],
-      "description": "The Adreamer LeoBook is a 13.3-inch laptop featuring a 2.5K UHD display. It typically comes with different configurations, including options like 6GB or 8GB of RAM and storage options like 128GB or 1TB SSD. It's designed for school use and general multimedia tasks. ",
+      "description": "The Lenovo V15 G2 with Intel Celeron processors offers various configurations, including options like the Celeron N4500 and N4020. These laptops typically feature a 15.6” Full HD display (1920x1080), 4GB DDR4 RAM, and SSD storage of 256GB. Always verify specifications through official sources or retailers for the most accurate and up-to-date information.",
       "rating": 5,
       "amount": 1,
-      "slug": "noutbuk-adreamer-leobook"
+      "slug": "noutbuk-lenova-celeron"
     },
     {
       "id": "304",
@@ -38,10 +38,10 @@
       "categoryId": 3,
       "price": 34.94,
       "images": [
-        "https://images.uzum.uz/cqgkklksslomdvni35i0/original.jpg",
-        "https://images.uzum.uz/cqgkklnfrr8a72r5lk9g/original.jpg",
-        "https://images.uzum.uz/cqgkklkqvsse8let46fg/original.jpg",
-        "https://images.uzum.uz/cqgkklksslomdvni35hg/original.jpg"
+        "https://olcha.uz/image/original/products/eMkPav37X9OiLYrccp2GdcQM5YOHiNqPS8aZWklpu2e3akwEIMQhE0BporOC.jpg",
+        "https://olcha.uz/image/original/products/supplier/stores/1/2024-01-16/mWWHiJanLrtzqQxLLEj9wKcCMReG3JeoBcDy7vICeWdRQE5RZyHsbw1UE5Up.jpg",
+        "https://olcha.uz/image/original/products/supplier/stores/1/2024-01-16/UKZv0SufBF3Rvh1GpXu8v0m9V0sWsnQKbAKtd0bP2Zk2pOay50ygwlW60JSG.jpg",
+        "https://olcha.uz/image/original/products/2022-06-13/fitnes-braslet-xiaomi-mi-band-7-58263-0.jpeg"
       ],
       "description": "The Xiaomi Mi Band 8 (Global version) is a fitness tracker designed with a focus on style, functionality, and comfort. It features a 1.62-inch AMOLED display, Bluetooth 5.1 connectivity, and a long battery life of 16 days. Additionally, it is water-resistant (up to 50 meters) and supports the Mi Fitness app for tracking various health metrics and activities.",
       "rating": 5,
@@ -50,19 +50,19 @@
     },
     {
       "id": "102",
-      "name": "Smartfon Tecno Spark Go 2024",
+      "name": "Smartfon Tecno Spark Go 2023",
       "categoryId": 1,
       "price": 111.55,
       "images": [
-        "https://images.uzum.uz/cmtq403ifoubkc6q8kgg/original.jpg",
-        "https://images.uzum.uz/cmtq3tbifoubkc6q8kg0/original.jpg",
-        "https://images.uzum.uz/cmtq45h25kub33f21a40/original.jpg",
-        "https://images.uzum.uz/cmtq42925kub33f21a20/original.jpg"
+        "https://olcha.uz/image/original/products/supplier/stores/1/2023-05-10/5yF4GxL3IftSqSd7H8IFlkbAgO3KneBwReUT35uts1lLnUUlAJoFeabXsk7B.jpg",
+        "https://olcha.uz/image/original/products/supplier/stores/1/2023-05-10/LSfsVyTsfPKA4AmzdSlIvw1YR2eFF0xWaxliKj52t3L9ATqqBEQi6rIGEf8M.jpg",
+        "https://olcha.uz/image/original/products/supplier/stores/1/2023-05-10/5KsEyaGpoJwuYZCovcHQZdZtSCshRgU4OsZ93T0OGOvlqMph0p09stb8meSh.jpg",
+        "https://olcha.uz/image/original/products/supplier/stores/1/2023-05-27/Sjyyd7g2ecOYdP5Ydj1X4Q9dfZfR6cjdzd7wYMRiS0EyWOWorFW1wdHOM2vB.jpg"
       ],
-      "description": "The Tecno Spark Go 2024 is an Android smartphone announced in November 2023. It features a 6.6-inch display and is powered by the Unisoc T606 chipset with an octa-core Arm Cortex-A53 processor offering up to 1.6GHz peak frequency for enhanced performance. The device comes with 4 GB of RAM and 128 GB of internal storage, and is equipped with a 5000 mAh battery, providing long-lasting usage. The dimensions are approximately 163.69 x 75.6 x 8.55mm",
+      "description": "The Tecno Spark Go 2023 is an Android smartphone announced in November 2023. It features a 6.6-inch display and is powered by the Unisoc T606 chipset with an octa-core Arm Cortex-A53 processor offering up to 1.6GHz peak frequency for enhanced performance. The device comes with 4 GB of RAM and 128 GB of internal storage, and is equipped with a 5000 mAh battery, providing long-lasting usage. The dimensions are approximately 163.69 x 75.6 x 8.55mm",
       "rating": 4.5,
       "amount": 1,
-      "slug": "smartfon-tecno-spark-go-2024"
+      "slug": "smartfon-tecno-spark-go-2023"
     },
     {
       "id": "401",
@@ -70,7 +70,7 @@
       "categoryId": 4,
       "price": 1721.27,
       "images": [
-        "https://images.uzum.uz/cmt0fmp25ku8jql6diog/original.jpg",
+        "https://ir.ozone.ru/s3/multimedia-1-a/wc1000/6957487774.jpg",
         "https://images.uzum.uz/cmt0fo1s99ouqbfslg60/original.jpg",
         "https://images.uzum.uz/cmt0fp3ifoubkc6q2ut0/original.jpg"
       ],
