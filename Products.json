@@ -735,6 +735,32 @@
   "categories": [
     {
       "id": "1",
+      "title": "Phones"
+    },
+    {
+      "id": "2",
+      "title": "Laptops"
+    },
+    {
+      "title": "Smart watches",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "title": "Cameras"
+    },
+    {
+      "title": "Headphones",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "title": "Gaming"
+    }
+  ],
+  "categories2": [
+    {
+      "id": "1",
       "title": "Elektronika",
       "image":"https://cdn-icons-png.flaticon.com/512/3731/3731134.png"
     },
