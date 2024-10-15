@@ -735,27 +735,48 @@
   "categories": [
     {
       "id": "1",
-      "title": "Phones"
+      "title": "Elektronika",
+      "image":"https://cdn-icons-png.flaticon.com/512/3731/3731134.png"
     },
     {
       "id": "2",
-      "title": "Laptops"
+      "title": "Kiyim",
+      "image":"https://cdn-icons-png.flaticon.com/512/3731/3731134.png"
     },
     {
-      "title": "Smart watches",
-      "id": "3"
+      "title": "Aksessuarlar",
+      "id": "3",
+      "image":"https://cdn-icons-png.flaticon.com/512/3731/3731134.png"
     },
     {
       "id": "4",
-      "title": "Cameras"
+      "title": "Kitaplar",
+      "image":"https://cdn-icons-png.flaticon.com/512/3731/3731134.png"
     },
     {
-      "title": "Headphones",
+      "title": "Sport",,
+      "image":"https://cdn-icons-png.flaticon.com/512/3731/3731134.png"
       "id": "5"
     },
     {
       "id": "6",
-      "title": "Gaming"
+      "title": "Ayaq kiyimler",
+      "image":"https://cdn-icons-png.flaticon.com/512/3731/3731134.png"
+    },
+    {
+      "id": "7",
+      "title": "Texnika",
+      "image":"https://cdn-icons-png.flaticon.com/512/3731/3731134.png"
+    },
+    {
+      "id": "8",
+      "title": "Kosmetika",
+      "image":"https://cdn-icons-png.flaticon.com/512/3731/3731134.png"
+    },
+    {
+      "id": "9",
+      "title": "Balalar tovarlari",
+      "image":"https://cdn-icons-png.flaticon.com/512/3731/3731134.png"
     }
   ]
 }
